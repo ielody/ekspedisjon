@@ -1,0 +1,3417 @@
+{
+  "type": "FeatureCollection",
+  "name": "norske-ekspedisjoner",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "nansen-gronland-1888",
+        "expedition_name": "Grønlandsekspedisjonen (Nansen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1888,
+        "end_year": 1889,
+        "leaders": "Fridtjof Nansen",
+        "feature_type": "point",
+        "location_name": "Umivik, østkysten",
+        "role": "start",
+        "order": 1,
+        "summary": "Første kjente kryssing av Grønlands innlandsis, på ski fra øst- til vestkysten. Gruppen overvintret i Godthåb og reiste hjem våren 1889."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7,
+          64.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "nansen-gronland-1888",
+        "expedition_name": "Grønlandsekspedisjonen (Nansen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1888,
+        "end_year": 1889,
+        "leaders": "Fridtjof Nansen",
+        "feature_type": "point",
+        "location_name": "Innlandsisen (høyeste parti, ca.)",
+        "role": "høydepunkt",
+        "order": 2,
+        "summary": "Første kjente kryssing av Grønlands innlandsis, på ski fra øst- til vestkysten. Gruppen overvintret i Godthåb og reiste hjem våren 1889."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5,
+          64.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "nansen-gronland-1888",
+        "expedition_name": "Grønlandsekspedisjonen (Nansen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1888,
+        "end_year": 1889,
+        "leaders": "Fridtjof Nansen",
+        "feature_type": "point",
+        "location_name": "Ameralikfjorden",
+        "role": "landfall",
+        "order": 3,
+        "summary": "Første kjente kryssing av Grønlands innlandsis, på ski fra øst- til vestkysten. Gruppen overvintret i Godthåb og reiste hjem våren 1889."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0,
+          64.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "nansen-gronland-1888",
+        "expedition_name": "Grønlandsekspedisjonen (Nansen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1888,
+        "end_year": 1889,
+        "leaders": "Fridtjof Nansen",
+        "feature_type": "point",
+        "location_name": "Godthåb (Nuuk)",
+        "role": "mål",
+        "order": 4,
+        "summary": "Første kjente kryssing av Grønlands innlandsis, på ski fra øst- til vestkysten. Gruppen overvintret i Godthåb og reiste hjem våren 1889."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.74,
+          64.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "nansen-gronland-1888",
+        "expedition_name": "Grønlandsekspedisjonen (Nansen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1888,
+        "end_year": 1889,
+        "leaders": "Fridtjof Nansen",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.7,
+            64.0
+          ],
+          [
+            -44.5,
+            64.2
+          ],
+          [
+            -50.0,
+            64.2
+          ],
+          [
+            -51.74,
+            64.18
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fram-1893",
+        "expedition_name": "Fram-ekspedisjonen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1893,
+        "end_year": 1896,
+        "leaders": "Fridtjof Nansen, Otto Sverdrup (skipper)",
+        "feature_type": "point",
+        "location_name": "Kristiania (Oslo)",
+        "role": "start",
+        "order": 1,
+        "summary": "Fram lot seg fryse inn nord for Sibir og drev med isen mot nord. Nansen og Johansen forlot skipet på ski og nådde 86°14'N, deretter overvintret de på Frans Josefs land. Fram brøt løs ved Svalbard i 1896."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fram-1893",
+        "expedition_name": "Fram-ekspedisjonen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1893,
+        "end_year": 1896,
+        "leaders": "Fridtjof Nansen, Otto Sverdrup (skipper)",
+        "feature_type": "point",
+        "location_name": "Vardø",
+        "role": "stopp",
+        "order": 2,
+        "summary": "Fram lot seg fryse inn nord for Sibir og drev med isen mot nord. Nansen og Johansen forlot skipet på ski og nådde 86°14'N, deretter overvintret de på Frans Josefs land. Fram brøt løs ved Svalbard i 1896."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.11,
+          70.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fram-1893",
+        "expedition_name": "Fram-ekspedisjonen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1893,
+        "end_year": 1896,
+        "leaders": "Fridtjof Nansen, Otto Sverdrup (skipper)",
+        "feature_type": "point",
+        "location_name": "Kapp Tsjeljuskin",
+        "role": "stopp",
+        "order": 3,
+        "summary": "Fram lot seg fryse inn nord for Sibir og drev med isen mot nord. Nansen og Johansen forlot skipet på ski og nådde 86°14'N, deretter overvintret de på Frans Josefs land. Fram brøt løs ved Svalbard i 1896."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3,
+          77.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fram-1893",
+        "expedition_name": "Fram-ekspedisjonen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1893,
+        "end_year": 1896,
+        "leaders": "Fridtjof Nansen, Otto Sverdrup (skipper)",
+        "feature_type": "point",
+        "location_name": "Drivstart ved Nysibirske øyer",
+        "role": "start drift",
+        "order": 4,
+        "summary": "Fram lot seg fryse inn nord for Sibir og drev med isen mot nord. Nansen og Johansen forlot skipet på ski og nådde 86°14'N, deretter overvintret de på Frans Josefs land. Fram brøt løs ved Svalbard i 1896."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.6,
+          77.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fram-1893",
+        "expedition_name": "Fram-ekspedisjonen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1893,
+        "end_year": 1896,
+        "leaders": "Fridtjof Nansen, Otto Sverdrup (skipper)",
+        "feature_type": "point",
+        "location_name": "Frams nordligste posisjon (ca. 85°57'N)",
+        "role": "nordligste punkt",
+        "order": 5,
+        "summary": "Fram lot seg fryse inn nord for Sibir og drev med isen mot nord. Nansen og Johansen forlot skipet på ski og nådde 86°14'N, deretter overvintret de på Frans Josefs land. Fram brøt løs ved Svalbard i 1896."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.5,
+          85.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fram-1893",
+        "expedition_name": "Fram-ekspedisjonen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1893,
+        "end_year": 1896,
+        "leaders": "Fridtjof Nansen, Otto Sverdrup (skipper)",
+        "feature_type": "point",
+        "location_name": "Skjervøy",
+        "role": "mål",
+        "order": 6,
+        "summary": "Fram lot seg fryse inn nord for Sibir og drev med isen mot nord. Nansen og Johansen forlot skipet på ski og nådde 86°14'N, deretter overvintret de på Frans Josefs land. Fram brøt løs ved Svalbard i 1896."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.98,
+          70.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fram-1893",
+        "expedition_name": "Fram-ekspedisjonen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1893,
+        "end_year": 1896,
+        "leaders": "Fridtjof Nansen, Otto Sverdrup (skipper)",
+        "feature_type": "point",
+        "location_name": "Nansen og Johansens nordligste punkt (86°14'N)",
+        "role": "nordligste punkt",
+        "order": 7,
+        "summary": "Fram lot seg fryse inn nord for Sibir og drev med isen mot nord. Nansen og Johansen forlot skipet på ski og nådde 86°14'N, deretter overvintret de på Frans Josefs land. Fram brøt løs ved Svalbard i 1896."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0,
+          86.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fram-1893",
+        "expedition_name": "Fram-ekspedisjonen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1893,
+        "end_year": 1896,
+        "leaders": "Fridtjof Nansen, Otto Sverdrup (skipper)",
+        "feature_type": "point",
+        "location_name": "Frans Josefs land, overvintring (ca.)",
+        "role": "overvintring",
+        "order": 8,
+        "summary": "Fram lot seg fryse inn nord for Sibir og drev med isen mot nord. Nansen og Johansen forlot skipet på ski og nådde 86°14'N, deretter overvintret de på Frans Josefs land. Fram brøt løs ved Svalbard i 1896."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8,
+          80.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fram-1893",
+        "expedition_name": "Fram-ekspedisjonen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1893,
+        "end_year": 1896,
+        "leaders": "Fridtjof Nansen, Otto Sverdrup (skipper)",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.75,
+            59.91
+          ],
+          [
+            31.11,
+            70.37
+          ],
+          [
+            104.3,
+            77.72
+          ],
+          [
+            133.6,
+            77.7
+          ],
+          [
+            66.5,
+            85.95
+          ],
+          [
+            20.98,
+            70.03
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "sverdrup-fram-1898",
+        "expedition_name": "Otto Sverdrups Fram-ekspedisjon",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1898,
+        "end_year": 1902,
+        "leaders": "Otto Sverdrup",
+        "feature_type": "point",
+        "location_name": "Kristiania (Oslo)",
+        "role": "start",
+        "order": 1,
+        "summary": "Kartla store deler av det kanadiske polarøyriket, blant annet Axel Heiberg-, Amund Ringnes- og Ellef Ringnes-øya, og vestkysten av Ellesmere Island. Rundt 260 000 km² nytt land ble kartlagt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "sverdrup-fram-1898",
+        "expedition_name": "Otto Sverdrups Fram-ekspedisjon",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1898,
+        "end_year": 1902,
+        "leaders": "Otto Sverdrup",
+        "feature_type": "point",
+        "location_name": "Ellesmere Island (vestkysten, ca.)",
+        "role": "kartlagt område",
+        "order": 2,
+        "summary": "Kartla store deler av det kanadiske polarøyriket, blant annet Axel Heiberg-, Amund Ringnes- og Ellef Ringnes-øya, og vestkysten av Ellesmere Island. Rundt 260 000 km² nytt land ble kartlagt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0,
+          79.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "sverdrup-fram-1898",
+        "expedition_name": "Otto Sverdrups Fram-ekspedisjon",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1898,
+        "end_year": 1902,
+        "leaders": "Otto Sverdrup",
+        "feature_type": "point",
+        "location_name": "Axel Heiberg-øya",
+        "role": "kartlagt område",
+        "order": 3,
+        "summary": "Kartla store deler av det kanadiske polarøyriket, blant annet Axel Heiberg-, Amund Ringnes- og Ellef Ringnes-øya, og vestkysten av Ellesmere Island. Rundt 260 000 km² nytt land ble kartlagt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          79.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "sverdrup-fram-1898",
+        "expedition_name": "Otto Sverdrups Fram-ekspedisjon",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1898,
+        "end_year": 1902,
+        "leaders": "Otto Sverdrup",
+        "feature_type": "point",
+        "location_name": "Amund Ringnes-øya",
+        "role": "kartlagt område",
+        "order": 4,
+        "summary": "Kartla store deler av det kanadiske polarøyriket, blant annet Axel Heiberg-, Amund Ringnes- og Ellef Ringnes-øya, og vestkysten av Ellesmere Island. Rundt 260 000 km² nytt land ble kartlagt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5,
+          78.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "sverdrup-fram-1898",
+        "expedition_name": "Otto Sverdrups Fram-ekspedisjon",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1898,
+        "end_year": 1902,
+        "leaders": "Otto Sverdrup",
+        "feature_type": "point",
+        "location_name": "Ellef Ringnes-øya",
+        "role": "kartlagt område",
+        "order": 5,
+        "summary": "Kartla store deler av det kanadiske polarøyriket, blant annet Axel Heiberg-, Amund Ringnes- og Ellef Ringnes-øya, og vestkysten av Ellesmere Island. Rundt 260 000 km² nytt land ble kartlagt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0,
+          78.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjoa-1903",
+        "expedition_name": "Gjøa-ekspedisjonen (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1903,
+        "end_year": 1906,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Kristiania (Oslo)",
+        "role": "start",
+        "order": 1,
+        "summary": "Første skip som seilte hele Nordvestpassasjen. Amundsen overvintret to år ved Gjøahavn og lærte av inuittene. Han bestemte også den magnetiske nordpolens posisjon på nytt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjoa-1903",
+        "expedition_name": "Gjøa-ekspedisjonen (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1903,
+        "end_year": 1906,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Godhavn, Disko",
+        "role": "stopp",
+        "order": 2,
+        "summary": "Første skip som seilte hele Nordvestpassasjen. Amundsen overvintret to år ved Gjøahavn og lærte av inuittene. Han bestemte også den magnetiske nordpolens posisjon på nytt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.52,
+          69.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjoa-1903",
+        "expedition_name": "Gjøa-ekspedisjonen (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1903,
+        "end_year": 1906,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Beecheyøya",
+        "role": "stopp",
+        "order": 3,
+        "summary": "Første skip som seilte hele Nordvestpassasjen. Amundsen overvintret to år ved Gjøahavn og lærte av inuittene. Han bestemte også den magnetiske nordpolens posisjon på nytt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.85,
+          74.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjoa-1903",
+        "expedition_name": "Gjøa-ekspedisjonen (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1903,
+        "end_year": 1906,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Gjøahavn, King William Island",
+        "role": "overvintring",
+        "order": 4,
+        "summary": "Første skip som seilte hele Nordvestpassasjen. Amundsen overvintret to år ved Gjøahavn og lærte av inuittene. Han bestemte også den magnetiske nordpolens posisjon på nytt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.88,
+          68.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjoa-1903",
+        "expedition_name": "Gjøa-ekspedisjonen (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1903,
+        "end_year": 1906,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Herschel Island",
+        "role": "overvintring",
+        "order": 5,
+        "summary": "Første skip som seilte hele Nordvestpassasjen. Amundsen overvintret to år ved Gjøahavn og lærte av inuittene. Han bestemte også den magnetiske nordpolens posisjon på nytt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.08,
+          69.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjoa-1903",
+        "expedition_name": "Gjøa-ekspedisjonen (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1903,
+        "end_year": 1906,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Nome, Alaska",
+        "role": "passasjen fullført",
+        "order": 6,
+        "summary": "Første skip som seilte hele Nordvestpassasjen. Amundsen overvintret to år ved Gjøahavn og lærte av inuittene. Han bestemte også den magnetiske nordpolens posisjon på nytt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.4,
+          64.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjoa-1903",
+        "expedition_name": "Gjøa-ekspedisjonen (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1903,
+        "end_year": 1906,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "San Francisco",
+        "role": "mål",
+        "order": 7,
+        "summary": "Første skip som seilte hele Nordvestpassasjen. Amundsen overvintret to år ved Gjøahavn og lærte av inuittene. Han bestemte også den magnetiske nordpolens posisjon på nytt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42,
+          37.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjoa-1903",
+        "expedition_name": "Gjøa-ekspedisjonen (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1903,
+        "end_year": 1906,
+        "leaders": "Roald Amundsen",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.75,
+            59.91
+          ],
+          [
+            -53.52,
+            69.25
+          ],
+          [
+            -91.85,
+            74.7
+          ],
+          [
+            -95.88,
+            68.63
+          ],
+          [
+            -139.08,
+            69.57
+          ],
+          [
+            -165.4,
+            64.5
+          ],
+          [
+            -122.42,
+            37.77
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "maud-1918",
+        "expedition_name": "Maud-ekspedisjonen (Nordøstpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1918,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Oscar Wisting (fra 1922)",
+        "feature_type": "point",
+        "location_name": "Vardø",
+        "role": "start",
+        "order": 1,
+        "summary": "Amundsen seilte Nordøstpassasjen østover og overvintret to ganger. Deretter fulgte en lang isdrift gjennom det sibirske Polhavet. Harald Ulrik Sverdrup leverte store mengder oseanografiske og meteorologiske data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.11,
+          70.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "maud-1918",
+        "expedition_name": "Maud-ekspedisjonen (Nordøstpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1918,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Oscar Wisting (fra 1922)",
+        "feature_type": "point",
+        "location_name": "Kapp Tsjeljuskin (Maudhavn)",
+        "role": "overvintring",
+        "order": 2,
+        "summary": "Amundsen seilte Nordøstpassasjen østover og overvintret to ganger. Deretter fulgte en lang isdrift gjennom det sibirske Polhavet. Harald Ulrik Sverdrup leverte store mengder oseanografiske og meteorologiske data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3,
+          77.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "maud-1918",
+        "expedition_name": "Maud-ekspedisjonen (Nordøstpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1918,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Oscar Wisting (fra 1922)",
+        "feature_type": "point",
+        "location_name": "Ajon-øya",
+        "role": "overvintring",
+        "order": 3,
+        "summary": "Amundsen seilte Nordøstpassasjen østover og overvintret to ganger. Deretter fulgte en lang isdrift gjennom det sibirske Polhavet. Harald Ulrik Sverdrup leverte store mengder oseanografiske og meteorologiske data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.5,
+          69.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "maud-1918",
+        "expedition_name": "Maud-ekspedisjonen (Nordøstpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1918,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Oscar Wisting (fra 1922)",
+        "feature_type": "point",
+        "location_name": "Nome, Alaska",
+        "role": "passasjen fullført",
+        "order": 4,
+        "summary": "Amundsen seilte Nordøstpassasjen østover og overvintret to ganger. Deretter fulgte en lang isdrift gjennom det sibirske Polhavet. Harald Ulrik Sverdrup leverte store mengder oseanografiske og meteorologiske data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.4,
+          64.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "maud-1918",
+        "expedition_name": "Maud-ekspedisjonen (Nordøstpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1918,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Oscar Wisting (fra 1922)",
+        "feature_type": "point",
+        "location_name": "Seattle",
+        "role": "ombygging",
+        "order": 5,
+        "summary": "Amundsen seilte Nordøstpassasjen østover og overvintret to ganger. Deretter fulgte en lang isdrift gjennom det sibirske Polhavet. Harald Ulrik Sverdrup leverte store mengder oseanografiske og meteorologiske data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33,
+          47.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "maud-1918",
+        "expedition_name": "Maud-ekspedisjonen (Nordøstpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1918,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Oscar Wisting (fra 1922)",
+        "feature_type": "point",
+        "location_name": "Cambridge Bay (Maud som «Baymaud»)",
+        "role": "skipets endestasjon",
+        "order": 6,
+        "summary": "Amundsen seilte Nordøstpassasjen østover og overvintret to ganger. Deretter fulgte en lang isdrift gjennom det sibirske Polhavet. Harald Ulrik Sverdrup leverte store mengder oseanografiske og meteorologiske data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.06,
+          69.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "maud-1918",
+        "expedition_name": "Maud-ekspedisjonen (Nordøstpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1918,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Oscar Wisting (fra 1922)",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              31.11,
+              70.37
+            ],
+            [
+              104.3,
+              77.72
+            ],
+            [
+              168.5,
+              69.9
+            ],
+            [
+              180,
+              67.52068965517242
+            ]
+          ],
+          [
+            [
+              -180,
+              67.52068965517242
+            ],
+            [
+              -165.4,
+              64.5
+            ],
+            [
+              -122.33,
+              47.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "amundsen-ellsworth-1925",
+        "expedition_name": "Amundsen–Ellsworth polarflyging",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1925,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth",
+        "feature_type": "point",
+        "location_name": "Kings Bay, Ny-Ålesund",
+        "role": "start",
+        "order": 1,
+        "summary": "To Dornier Wal-flybåter fløy fra Kings Bay til 87°44'N, rundt 250 km fra Nordpolen. Etter lang tid på isen kom N25 seg tilbake til Svalbard."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93,
+          78.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "amundsen-ellsworth-1925",
+        "expedition_name": "Amundsen–Ellsworth polarflyging",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1925,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth",
+        "feature_type": "point",
+        "location_name": "Landing ved 87°44'N (ca.)",
+        "role": "nordligste punkt",
+        "order": 2,
+        "summary": "To Dornier Wal-flybåter fløy fra Kings Bay til 87°44'N, rundt 250 km fra Nordpolen. Etter lang tid på isen kom N25 seg tilbake til Svalbard."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0,
+          87.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "amundsen-ellsworth-1925",
+        "expedition_name": "Amundsen–Ellsworth polarflyging",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1925,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth",
+        "feature_type": "point",
+        "location_name": "Nordaustlandet",
+        "role": "mål",
+        "order": 3,
+        "summary": "To Dornier Wal-flybåter fløy fra Kings Bay til 87°44'N, rundt 250 km fra Nordpolen. Etter lang tid på isen kom N25 seg tilbake til Svalbard."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0,
+          80.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "amundsen-ellsworth-1925",
+        "expedition_name": "Amundsen–Ellsworth polarflyging",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1925,
+        "end_year": 1925,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.93,
+            78.92
+          ],
+          [
+            -10.0,
+            87.73
+          ],
+          [
+            20.0,
+            80.6
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norge-1926",
+        "expedition_name": "Norge-ekspedisjonen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1926,
+        "end_year": 1926,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth, Umberto Nobile",
+        "feature_type": "point",
+        "location_name": "Roma",
+        "role": "start",
+        "order": 1,
+        "summary": "Luftskipet fløy fra Svalbard over Nordpolen 12. mai 1926 og landet i Alaska. Det var første ubestridte flyvning over Nordpolen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6,
+          41.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norge-1926",
+        "expedition_name": "Norge-ekspedisjonen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1926,
+        "end_year": 1926,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth, Umberto Nobile",
+        "feature_type": "point",
+        "location_name": "Pulham, England",
+        "role": "stopp",
+        "order": 2,
+        "summary": "Luftskipet fløy fra Svalbard over Nordpolen 12. mai 1926 og landet i Alaska. Det var første ubestridte flyvning over Nordpolen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1,
+          52.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norge-1926",
+        "expedition_name": "Norge-ekspedisjonen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1926,
+        "end_year": 1926,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth, Umberto Nobile",
+        "feature_type": "point",
+        "location_name": "Kjeller (Oslo)",
+        "role": "stopp",
+        "order": 3,
+        "summary": "Luftskipet fløy fra Svalbard over Nordpolen 12. mai 1926 og landet i Alaska. Det var første ubestridte flyvning over Nordpolen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.04,
+          59.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norge-1926",
+        "expedition_name": "Norge-ekspedisjonen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1926,
+        "end_year": 1926,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth, Umberto Nobile",
+        "feature_type": "point",
+        "location_name": "Leningrad",
+        "role": "stopp",
+        "order": 4,
+        "summary": "Luftskipet fløy fra Svalbard over Nordpolen 12. mai 1926 og landet i Alaska. Det var første ubestridte flyvning over Nordpolen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3,
+          59.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norge-1926",
+        "expedition_name": "Norge-ekspedisjonen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1926,
+        "end_year": 1926,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth, Umberto Nobile",
+        "feature_type": "point",
+        "location_name": "Vadsø",
+        "role": "stopp",
+        "order": 5,
+        "summary": "Luftskipet fløy fra Svalbard over Nordpolen 12. mai 1926 og landet i Alaska. Det var første ubestridte flyvning over Nordpolen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.75,
+          70.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norge-1926",
+        "expedition_name": "Norge-ekspedisjonen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1926,
+        "end_year": 1926,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth, Umberto Nobile",
+        "feature_type": "point",
+        "location_name": "Kings Bay, Ny-Ålesund",
+        "role": "avgang mot polen",
+        "order": 6,
+        "summary": "Luftskipet fløy fra Svalbard over Nordpolen 12. mai 1926 og landet i Alaska. Det var første ubestridte flyvning over Nordpolen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93,
+          78.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norge-1926",
+        "expedition_name": "Norge-ekspedisjonen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1926,
+        "end_year": 1926,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth, Umberto Nobile",
+        "feature_type": "point",
+        "location_name": "Nordpolen",
+        "role": "høydepunkt",
+        "order": 7,
+        "summary": "Luftskipet fløy fra Svalbard over Nordpolen 12. mai 1926 og landet i Alaska. Det var første ubestridte flyvning over Nordpolen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norge-1926",
+        "expedition_name": "Norge-ekspedisjonen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1926,
+        "end_year": 1926,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth, Umberto Nobile",
+        "feature_type": "point",
+        "location_name": "Teller, Alaska",
+        "role": "mål",
+        "order": 8,
+        "summary": "Luftskipet fløy fra Svalbard over Nordpolen 12. mai 1926 og landet i Alaska. Det var første ubestridte flyvning over Nordpolen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.36,
+          65.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norge-1926",
+        "expedition_name": "Norge-ekspedisjonen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1926,
+        "end_year": 1926,
+        "leaders": "Roald Amundsen, Lincoln Ellsworth, Umberto Nobile",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6,
+            41.8
+          ],
+          [
+            1.1,
+            52.4
+          ],
+          [
+            11.04,
+            59.97
+          ],
+          [
+            30.3,
+            59.93
+          ],
+          [
+            29.75,
+            70.07
+          ],
+          [
+            11.93,
+            78.92
+          ],
+          [
+            0.0,
+            90.0
+          ],
+          [
+            -166.36,
+            65.26
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "bratvaag-1930",
+        "expedition_name": "Bratvaag-ekspedisjonen (Andrée-funnet)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1930,
+        "end_year": 1930,
+        "leaders": "Gunnar Horn",
+        "feature_type": "point",
+        "location_name": "Tromsø",
+        "role": "start",
+        "order": 1,
+        "summary": "Under en forskningsekspedisjon fant mannskapet restene etter S.A. Andrées ballongekspedisjon fra 1897 på Kvitøya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.96,
+          69.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "bratvaag-1930",
+        "expedition_name": "Bratvaag-ekspedisjonen (Andrée-funnet)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1930,
+        "end_year": 1930,
+        "leaders": "Gunnar Horn",
+        "feature_type": "point",
+        "location_name": "Kvitøya",
+        "role": "funnsted",
+        "order": 2,
+        "summary": "Under en forskningsekspedisjon fant mannskapet restene etter S.A. Andrées ballongekspedisjon fra 1897 på Kvitøya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6,
+          80.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "bratvaag-1930",
+        "expedition_name": "Bratvaag-ekspedisjonen (Andrée-funnet)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1930,
+        "end_year": 1930,
+        "leaders": "Gunnar Horn",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.96,
+            69.65
+          ],
+          [
+            32.6,
+            80.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "nsiu-svalbard-gronland",
+        "expedition_name": "Norges Svalbard- og Ishavsundersøkelser (Adolf Hoel)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1909,
+        "end_year": 1940,
+        "leaders": "Adolf Hoel",
+        "feature_type": "point",
+        "location_name": "Svalbard (kartlagte områder, ca.)",
+        "role": "operasjonsområde",
+        "order": 1,
+        "summary": "Serie av norske kartleggings- og forskningsekspedisjoner til Svalbard og senere Øst-Grønland (Eirik Raudes Land), i regi av Adolf Hoel og NSIU. Ekspedisjonene ga grunnlaget for norsk kartlegging og suverenitetsutøvelse."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0,
+          78.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "nsiu-svalbard-gronland",
+        "expedition_name": "Norges Svalbard- og Ishavsundersøkelser (Adolf Hoel)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1909,
+        "end_year": 1940,
+        "leaders": "Adolf Hoel",
+        "feature_type": "point",
+        "location_name": "Myggbukta, Øst-Grønland",
+        "role": "stasjon",
+        "order": 2,
+        "summary": "Serie av norske kartleggings- og forskningsekspedisjoner til Svalbard og senere Øst-Grønland (Eirik Raudes Land), i regi av Adolf Hoel og NSIU. Ekspedisjonene ga grunnlaget for norsk kartlegging og suverenitetsutøvelse."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.57,
+          73.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "isachsen-svalbard-1909",
+        "expedition_name": "Isachsens Svalbard-ekspedisjon",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1909,
+        "end_year": 1910,
+        "leaders": "Gunnar Isachsen",
+        "feature_type": "point",
+        "location_name": "Krossfjorden (ca.)",
+        "role": "operasjonsområde",
+        "order": 1,
+        "summary": "Norsk kartleggingsekspedisjon på Nordvest-Spitsbergen. Isachsen hadde også vært kartograf på Sverdrups Fram-ekspedisjon."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5,
+          79.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "astrup-peary",
+        "expedition_name": "Eivind Astrup med Pearys Grønlandsekspedisjoner",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1891,
+        "end_year": 1895,
+        "leaders": "Robert Peary",
+        "feature_type": "point",
+        "location_name": "Red Cliff House, McCormick Bay",
+        "role": "base",
+        "order": 1,
+        "summary": "Nordmannen Eivind Astrup var skiekspert og deltok på Pearys ekspedisjoner til Nord-Grønland. Han gjorde viktige bidrag til kartleggingen av regionen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4,
+          77.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "birkeland-nordlys",
+        "expedition_name": "Birkelands nordlysekspedisjoner",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1899,
+        "end_year": 1903,
+        "leaders": "Kristian Birkeland",
+        "feature_type": "point",
+        "location_name": "Haldde observatorium, Alta",
+        "role": "stasjon",
+        "order": 1,
+        "summary": "Kristian Birkeland organiserte flere observasjonsekspedisjoner og en kjede av stasjoner for å studere nordlyset og jordmagnetismen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0,
+          69.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "birkeland-nordlys",
+        "expedition_name": "Birkelands nordlysekspedisjoner",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1899,
+        "end_year": 1903,
+        "leaders": "Kristian Birkeland",
+        "feature_type": "point",
+        "location_name": "Dyrafjord, Island",
+        "role": "stasjon",
+        "order": 2,
+        "summary": "Kristian Birkeland organiserte flere observasjonsekspedisjoner og en kjede av stasjoner for å studere nordlyset og jordmagnetismen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.5,
+          65.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "birkeland-nordlys",
+        "expedition_name": "Birkelands nordlysekspedisjoner",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1899,
+        "end_year": 1903,
+        "leaders": "Kristian Birkeland",
+        "feature_type": "point",
+        "location_name": "Matotsjkin Sjar, Novaja Semlja",
+        "role": "stasjon",
+        "order": 3,
+        "summary": "Kristian Birkeland organiserte flere observasjonsekspedisjoner og en kjede av stasjoner for å studere nordlyset og jordmagnetismen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2,
+          73.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "kagge-ousland-1990",
+        "expedition_name": "Kagge og Ouslands Nordpolekspedisjon",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1990,
+        "end_year": 1990,
+        "leaders": "Erling Kagge, Børge Ousland",
+        "feature_type": "point",
+        "location_name": "Ward Hunt Island",
+        "role": "start",
+        "order": 1,
+        "summary": "Første ekspedisjon til Nordpolen uten forsyningsstøtte utenfra, fra Ward Hunt Island."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15,
+          83.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "kagge-ousland-1990",
+        "expedition_name": "Kagge og Ouslands Nordpolekspedisjon",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1990,
+        "end_year": 1990,
+        "leaders": "Erling Kagge, Børge Ousland",
+        "feature_type": "point",
+        "location_name": "Nordpolen",
+        "role": "mål",
+        "order": 2,
+        "summary": "Første ekspedisjon til Nordpolen uten forsyningsstøtte utenfra, fra Ward Hunt Island."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "kagge-ousland-1990",
+        "expedition_name": "Kagge og Ouslands Nordpolekspedisjon",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1990,
+        "end_year": 1990,
+        "leaders": "Erling Kagge, Børge Ousland",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.15,
+            83.1
+          ],
+          [
+            0.0,
+            90.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ousland-nordpolen-1994",
+        "expedition_name": "Børge Ouslands solo til Nordpolen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1994,
+        "end_year": 1994,
+        "leaders": "Børge Ousland",
+        "feature_type": "point",
+        "location_name": "Kapp Arktitsjeskij",
+        "role": "start",
+        "order": 1,
+        "summary": "Første soloekspedisjon uten støtte til Nordpolen, fra Kapp Arktitsjeskij på Severnaja Semlja."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          81.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ousland-nordpolen-1994",
+        "expedition_name": "Børge Ouslands solo til Nordpolen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1994,
+        "end_year": 1994,
+        "leaders": "Børge Ousland",
+        "feature_type": "point",
+        "location_name": "Nordpolen",
+        "role": "mål",
+        "order": 2,
+        "summary": "Første soloekspedisjon uten støtte til Nordpolen, fra Kapp Arktitsjeskij på Severnaja Semlja."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ousland-nordpolen-1994",
+        "expedition_name": "Børge Ouslands solo til Nordpolen",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1994,
+        "end_year": 1994,
+        "leaders": "Børge Ousland",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.0,
+            81.2
+          ],
+          [
+            0.0,
+            90.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjeldnes-larsen-2000",
+        "expedition_name": "Gjeldnes og Larsen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1999,
+        "end_year": 2000,
+        "leaders": "Rune Gjeldnes, Torry Larsen",
+        "feature_type": "point",
+        "location_name": "Kapp Arktitsjeskij",
+        "role": "start",
+        "order": 1,
+        "summary": "Første ekspedisjon som krysset Polhavet uten støtte utenfra, fra Sibir via Nordpolen til Canada."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          81.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjeldnes-larsen-2000",
+        "expedition_name": "Gjeldnes og Larsen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1999,
+        "end_year": 2000,
+        "leaders": "Rune Gjeldnes, Torry Larsen",
+        "feature_type": "point",
+        "location_name": "Nordpolen (ca.)",
+        "role": "passert",
+        "order": 2,
+        "summary": "Første ekspedisjon som krysset Polhavet uten støtte utenfra, fra Sibir via Nordpolen til Canada."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjeldnes-larsen-2000",
+        "expedition_name": "Gjeldnes og Larsen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1999,
+        "end_year": 2000,
+        "leaders": "Rune Gjeldnes, Torry Larsen",
+        "feature_type": "point",
+        "location_name": "Ward Hunt Island",
+        "role": "mål",
+        "order": 3,
+        "summary": "Første ekspedisjon som krysset Polhavet uten støtte utenfra, fra Sibir via Nordpolen til Canada."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15,
+          83.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gjeldnes-larsen-2000",
+        "expedition_name": "Gjeldnes og Larsen over Polhavet",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1999,
+        "end_year": 2000,
+        "leaders": "Rune Gjeldnes, Torry Larsen",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.0,
+            81.2
+          ],
+          [
+            0.0,
+            90.0
+          ],
+          [
+            -74.15,
+            83.1
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "henry-larsen-st-roch",
+        "expedition_name": "Henry Larsen og St. Roch (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1940,
+        "end_year": 1944,
+        "leaders": "Henry Larsen",
+        "feature_type": "point",
+        "location_name": "Vancouver",
+        "role": "start",
+        "order": 1,
+        "summary": "Fredrikstad-fødte Henry Larsen var skipper på RCMP-skipet St. Roch. Han var den første som seilte Nordvestpassasjen fra vest til øst (1940–42) og tilbake på én sesong (1944)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12,
+          49.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "henry-larsen-st-roch",
+        "expedition_name": "Henry Larsen og St. Roch (Nordvestpassasjen)",
+        "region": "arktis",
+        "region_label": "Arktis",
+        "color": "#2b8cbe",
+        "start_year": 1940,
+        "end_year": 1944,
+        "leaders": "Henry Larsen",
+        "feature_type": "point",
+        "location_name": "Halifax",
+        "role": "mål",
+        "order": 2,
+        "summary": "Fredrikstad-fødte Henry Larsen var skipper på RCMP-skipet St. Roch. Han var den første som seilte Nordvestpassasjen fra vest til øst (1940–42) og tilbake på én sesong (1944)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57,
+          44.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "bull-antarctic-1893",
+        "expedition_name": "Henrik Bulls «Antarctic»-ekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1893,
+        "end_year": 1895,
+        "leaders": "Henrik Johan Bull",
+        "feature_type": "point",
+        "location_name": "Tønsberg",
+        "role": "start",
+        "order": 1,
+        "summary": "Hvalfangstekspedisjon til sørlige farvann. 24. januar 1895 gikk deltakerne i land ved Kapp Adare. Dette regnes som den første dokumenterte landgangen på Antarktis' fastland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.41,
+          59.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "bull-antarctic-1893",
+        "expedition_name": "Henrik Bulls «Antarctic»-ekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1893,
+        "end_year": 1895,
+        "leaders": "Henrik Johan Bull",
+        "feature_type": "point",
+        "location_name": "Melbourne",
+        "role": "stopp",
+        "order": 2,
+        "summary": "Hvalfangstekspedisjon til sørlige farvann. 24. januar 1895 gikk deltakerne i land ved Kapp Adare. Dette regnes som den første dokumenterte landgangen på Antarktis' fastland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "bull-antarctic-1893",
+        "expedition_name": "Henrik Bulls «Antarctic»-ekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1893,
+        "end_year": 1895,
+        "leaders": "Henrik Johan Bull",
+        "feature_type": "point",
+        "location_name": "Kapp Adare",
+        "role": "landgang",
+        "order": 3,
+        "summary": "Hvalfangstekspedisjon til sørlige farvann. 24. januar 1895 gikk deltakerne i land ved Kapp Adare. Dette regnes som den første dokumenterte landgangen på Antarktis' fastland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.2,
+          -71.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "bull-antarctic-1893",
+        "expedition_name": "Henrik Bulls «Antarctic»-ekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1893,
+        "end_year": 1895,
+        "leaders": "Henrik Johan Bull",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.96,
+            -37.81
+          ],
+          [
+            170.2,
+            -71.3
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "jason-1892",
+        "expedition_name": "C.A. Larsens «Jason»-ekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1892,
+        "end_year": 1894,
+        "leaders": "Carl Anton Larsen",
+        "feature_type": "point",
+        "location_name": "Sandefjord",
+        "role": "start",
+        "order": 1,
+        "summary": "Larsen utforsket østkysten av Antarktishalvøya, fant fossiler på Seymour Island og oppdaget den senere oppkalte Larsen-isbremmen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.22,
+          59.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "jason-1892",
+        "expedition_name": "C.A. Larsens «Jason»-ekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1892,
+        "end_year": 1894,
+        "leaders": "Carl Anton Larsen",
+        "feature_type": "point",
+        "location_name": "Seymour Island",
+        "role": "fossilfunn",
+        "order": 2,
+        "summary": "Larsen utforsket østkysten av Antarktishalvøya, fant fossiler på Seymour Island og oppdaget den senere oppkalte Larsen-isbremmen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.75,
+          -64.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "jason-1892",
+        "expedition_name": "C.A. Larsens «Jason»-ekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1892,
+        "end_year": 1894,
+        "leaders": "Carl Anton Larsen",
+        "feature_type": "point",
+        "location_name": "Larsen-isbremmen (ca.)",
+        "role": "oppdagelse",
+        "order": 3,
+        "summary": "Larsen utforsket østkysten av Antarktishalvøya, fant fossiler på Seymour Island og oppdaget den senere oppkalte Larsen-isbremmen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0,
+          -67.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "southern-cross-1898",
+        "expedition_name": "Southern Cross-ekspedisjonen",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1898,
+        "end_year": 1900,
+        "leaders": "Carsten Borchgrevink",
+        "feature_type": "point",
+        "location_name": "Hobart",
+        "role": "stopp",
+        "order": 1,
+        "summary": "Britisk-norsk ekspedisjon ledet av nordmannen Borchgrevink. Første overvintring på Antarktis' fastland (Kapp Adare) og første kjøring på ski/slede på Rossisbarrieren."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33,
+          -42.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "southern-cross-1898",
+        "expedition_name": "Southern Cross-ekspedisjonen",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1898,
+        "end_year": 1900,
+        "leaders": "Carsten Borchgrevink",
+        "feature_type": "point",
+        "location_name": "Kapp Adare",
+        "role": "overvintring",
+        "order": 2,
+        "summary": "Britisk-norsk ekspedisjon ledet av nordmannen Borchgrevink. Første overvintring på Antarktis' fastland (Kapp Adare) og første kjøring på ski/slede på Rossisbarrieren."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.2,
+          -71.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "southern-cross-1898",
+        "expedition_name": "Southern Cross-ekspedisjonen",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1898,
+        "end_year": 1900,
+        "leaders": "Carsten Borchgrevink",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.33,
+            -42.88
+          ],
+          [
+            170.2,
+            -71.3
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "amundsen-sydpolen-1910",
+        "expedition_name": "Amundsens Sydpolekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1910,
+        "end_year": 1912,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Kristiania (Oslo)",
+        "role": "start",
+        "order": 1,
+        "summary": "Første ekspedisjon som nådde Sydpolen, 14. desember 1911. Fem menn nådde polpunktet. Basen Framheim lå i Hvalbukta på Rossisbarrieren."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "amundsen-sydpolen-1910",
+        "expedition_name": "Amundsens Sydpolekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1910,
+        "end_year": 1912,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Framheim, Hvalbukta",
+        "role": "base",
+        "order": 2,
+        "summary": "Første ekspedisjon som nådde Sydpolen, 14. desember 1911. Fem menn nådde polpunktet. Basen Framheim lå i Hvalbukta på Rossisbarrieren."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.9,
+          -78.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "amundsen-sydpolen-1910",
+        "expedition_name": "Amundsens Sydpolekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1910,
+        "end_year": 1912,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Sydpolen",
+        "role": "mål",
+        "order": 3,
+        "summary": "Første ekspedisjon som nådde Sydpolen, 14. desember 1911. Fem menn nådde polpunktet. Basen Framheim lå i Hvalbukta på Rossisbarrieren."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          -90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "amundsen-sydpolen-1910",
+        "expedition_name": "Amundsens Sydpolekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1910,
+        "end_year": 1912,
+        "leaders": "Roald Amundsen",
+        "feature_type": "point",
+        "location_name": "Hobart",
+        "role": "melding om suksess",
+        "order": 4,
+        "summary": "Første ekspedisjon som nådde Sydpolen, 14. desember 1911. Fem menn nådde polpunktet. Basen Framheim lå i Hvalbukta på Rossisbarrieren."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33,
+          -42.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "amundsen-sydpolen-1910",
+        "expedition_name": "Amundsens Sydpolekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1910,
+        "end_year": 1912,
+        "leaders": "Roald Amundsen",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -163.9,
+            -78.5
+          ],
+          [
+            0.0,
+            -90.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gran-terra-nova",
+        "expedition_name": "Tryggve Gran med Scotts Terra Nova-ekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1910,
+        "end_year": 1913,
+        "leaders": "Robert F. Scott",
+        "feature_type": "point",
+        "location_name": "Kapp Evans",
+        "role": "base",
+        "order": 1,
+        "summary": "Nordmannen Tryggve Gran var skiinstruktør på den britiske ekspedisjonen, og deltok i leteekspedisjonen som fant Scotts telt i november 1912."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4,
+          -77.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "gran-terra-nova",
+        "expedition_name": "Tryggve Gran med Scotts Terra Nova-ekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1910,
+        "end_year": 1913,
+        "leaders": "Robert F. Scott",
+        "feature_type": "point",
+        "location_name": "Scotts siste leir (ca.)",
+        "role": "funnsted",
+        "order": 2,
+        "summary": "Nordmannen Tryggve Gran var skiinstruktør på den britiske ekspedisjonen, og deltok i leteekspedisjonen som fant Scotts telt i november 1912."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.0,
+          -79.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "balchen-byrd-1929",
+        "expedition_name": "Bernt Balchen: flyvning over Sydpolen",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1929,
+        "end_year": 1929,
+        "leaders": "Richard E. Byrd",
+        "feature_type": "point",
+        "location_name": "Little America",
+        "role": "start",
+        "order": 1,
+        "summary": "Nordmannen Bernt Balchen var pilot på den første flyvningen over Sydpolen, 28.–29. november 1929."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.8,
+          -78.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "balchen-byrd-1929",
+        "expedition_name": "Bernt Balchen: flyvning over Sydpolen",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1929,
+        "end_year": 1929,
+        "leaders": "Richard E. Byrd",
+        "feature_type": "point",
+        "location_name": "Sydpolen",
+        "role": "overflyvning",
+        "order": 2,
+        "summary": "Nordmannen Bernt Balchen var pilot på den første flyvningen over Sydpolen, 28.–29. november 1929."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          -90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "balchen-byrd-1929",
+        "expedition_name": "Bernt Balchen: flyvning over Sydpolen",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1929,
+        "end_year": 1929,
+        "leaders": "Richard E. Byrd",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -163.8,
+            -78.5
+          ],
+          [
+            0.0,
+            -90.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norvegia-1927",
+        "expedition_name": "Norvegia-ekspedisjonene (Lars Christensen)",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1927,
+        "end_year": 1931,
+        "leaders": "Lars Christensen (finansiør), Harald Horntvedt, Hjalmar Riiser-Larsen, Gunnar Isachsen",
+        "feature_type": "point",
+        "location_name": "Sandefjord",
+        "role": "start",
+        "order": 1,
+        "summary": "Flere ekspedisjoner som annekterte Bouvetøya (1927) og Peter I Øy (1929) og kartla kysten av Dronning Maud Land fra luften."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.22,
+          59.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norvegia-1927",
+        "expedition_name": "Norvegia-ekspedisjonene (Lars Christensen)",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1927,
+        "end_year": 1931,
+        "leaders": "Lars Christensen (finansiør), Harald Horntvedt, Hjalmar Riiser-Larsen, Gunnar Isachsen",
+        "feature_type": "point",
+        "location_name": "Bouvetøya",
+        "role": "annektert 1927",
+        "order": 2,
+        "summary": "Flere ekspedisjoner som annekterte Bouvetøya (1927) og Peter I Øy (1929) og kartla kysten av Dronning Maud Land fra luften."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.37,
+          -54.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norvegia-1927",
+        "expedition_name": "Norvegia-ekspedisjonene (Lars Christensen)",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1927,
+        "end_year": 1931,
+        "leaders": "Lars Christensen (finansiør), Harald Horntvedt, Hjalmar Riiser-Larsen, Gunnar Isachsen",
+        "feature_type": "point",
+        "location_name": "Peter I Øy",
+        "role": "annektert 1929",
+        "order": 3,
+        "summary": "Flere ekspedisjoner som annekterte Bouvetøya (1927) og Peter I Øy (1929) og kartla kysten av Dronning Maud Land fra luften."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58,
+          -68.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "christensen-1933",
+        "expedition_name": "Lars Christensens ekspedisjoner 1933–37",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1933,
+        "end_year": 1937,
+        "leaders": "Lars Christensen (finansiør), Klarius Mikkelsen",
+        "feature_type": "point",
+        "location_name": "Ingrid Christensen-kysten (ca.)",
+        "role": "kartlagt område",
+        "order": 1,
+        "summary": "Kartlegging av Øst-Antarktis fra luft og skip. Området ble oppkalt etter Ingrid Christensen. Caroline Mikkelsen regnes ofte som den første kvinnen som satte foten på Antarktis' fastland (1935)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5,
+          -69.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "christensen-1933",
+        "expedition_name": "Lars Christensens ekspedisjoner 1933–37",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1933,
+        "end_year": 1937,
+        "leaders": "Lars Christensen (finansiør), Klarius Mikkelsen",
+        "feature_type": "point",
+        "location_name": "Vestfold Hills",
+        "role": "landgang 1935",
+        "order": 2,
+        "summary": "Kartlegging av Øst-Antarktis fra luft og skip. Området ble oppkalt etter Ingrid Christensen. Caroline Mikkelsen regnes ofte som den første kvinnen som satte foten på Antarktis' fastland (1935)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          -68.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ronne-1947",
+        "expedition_name": "Ronne Antarctic Research Expedition",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1947,
+        "end_year": 1948,
+        "leaders": "Finn Ronne",
+        "feature_type": "point",
+        "location_name": "Stonington Island",
+        "role": "base",
+        "order": 1,
+        "summary": "Norskfødte Finn Ronne ledet en amerikansk privat ekspedisjon. Edith Ronne og Jennie Darlington var de første kvinnene som overvintret i Antarktis. Ronne-isbremmen er oppkalt etter ham."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0,
+          -68.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ronne-1947",
+        "expedition_name": "Ronne Antarctic Research Expedition",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1947,
+        "end_year": 1948,
+        "leaders": "Finn Ronne",
+        "feature_type": "point",
+        "location_name": "Ronne-isbremmen (ca.)",
+        "role": "kartlagt område",
+        "order": 2,
+        "summary": "Norskfødte Finn Ronne ledet en amerikansk privat ekspedisjon. Edith Ronne og Jennie Darlington var de første kvinnene som overvintret i Antarktis. Ronne-isbremmen er oppkalt etter ham."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0,
+          -77.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "nbsae-1949",
+        "expedition_name": "Norsk–britisk–svenske Antarktisekspedisjon",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1949,
+        "end_year": 1952,
+        "leaders": "John Giæver",
+        "feature_type": "point",
+        "location_name": "Maudheim",
+        "role": "base",
+        "order": 1,
+        "summary": "Internasjonal glasiologisk og geologisk ekspedisjon til Dronning Maud Land med base på Maudheim. Viktig for kunnskapen om isens tykkelse og utstrekning."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.93,
+          -71.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "kagge-sydpolen-1992",
+        "expedition_name": "Erling Kagges solo til Sydpolen",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1992,
+        "end_year": 1993,
+        "leaders": "Erling Kagge",
+        "feature_type": "point",
+        "location_name": "Berkner Island",
+        "role": "start",
+        "order": 1,
+        "summary": "Første person som nådde Sydpolen alene og uten støtte utenfra, fra Berkner Island."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5,
+          -79.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "kagge-sydpolen-1992",
+        "expedition_name": "Erling Kagges solo til Sydpolen",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1992,
+        "end_year": 1993,
+        "leaders": "Erling Kagge",
+        "feature_type": "point",
+        "location_name": "Sydpolen",
+        "role": "mål",
+        "order": 2,
+        "summary": "Første person som nådde Sydpolen alene og uten støtte utenfra, fra Berkner Island."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          -90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "kagge-sydpolen-1992",
+        "expedition_name": "Erling Kagges solo til Sydpolen",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1992,
+        "end_year": 1993,
+        "leaders": "Erling Kagge",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.5,
+            -79.3
+          ],
+          [
+            0.0,
+            -90.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ousland-antarktis-1996",
+        "expedition_name": "Børge Ouslands solokryssing av Antarktis",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1996,
+        "end_year": 1997,
+        "leaders": "Børge Ousland",
+        "feature_type": "point",
+        "location_name": "Berkner Island",
+        "role": "start",
+        "order": 1,
+        "summary": "Første solokryssing av Antarktis uten støtte, fra Berkner Island via Sydpolen til Scott Base."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5,
+          -79.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ousland-antarktis-1996",
+        "expedition_name": "Børge Ouslands solokryssing av Antarktis",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1996,
+        "end_year": 1997,
+        "leaders": "Børge Ousland",
+        "feature_type": "point",
+        "location_name": "Sydpolen",
+        "role": "passert",
+        "order": 2,
+        "summary": "Første solokryssing av Antarktis uten støtte, fra Berkner Island via Sydpolen til Scott Base."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          -90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ousland-antarktis-1996",
+        "expedition_name": "Børge Ouslands solokryssing av Antarktis",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1996,
+        "end_year": 1997,
+        "leaders": "Børge Ousland",
+        "feature_type": "point",
+        "location_name": "Scott Base",
+        "role": "mål",
+        "order": 3,
+        "summary": "Første solokryssing av Antarktis uten støtte, fra Berkner Island via Sydpolen til Scott Base."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.76,
+          -77.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ousland-antarktis-1996",
+        "expedition_name": "Børge Ouslands solokryssing av Antarktis",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1996,
+        "end_year": 1997,
+        "leaders": "Børge Ousland",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.5,
+            -79.3
+          ],
+          [
+            0.0,
+            -90.0
+          ],
+          [
+            166.76,
+            -77.85
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norske-dronning-maud-land",
+        "expedition_name": "Norske forskningsekspedisjoner i Dronning Maud Land",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1956,
+        "end_year": null,
+        "leaders": "",
+        "feature_type": "point",
+        "location_name": "Norway Station (ca.)",
+        "role": "stasjon (1956–60)",
+        "order": 1,
+        "summary": "Norsk Polarinstitutt har drevet forskningsekspedisjoner i Dronning Maud Land siden 1956. Norway Station lå på Fimbulisen (1956–60). Troll-stasjonen ble etablert i 1990."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5,
+          -70.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "norske-dronning-maud-land",
+        "expedition_name": "Norske forskningsekspedisjoner i Dronning Maud Land",
+        "region": "antarktis",
+        "region_label": "Antarktis",
+        "color": "#6a51a3",
+        "start_year": 1956,
+        "end_year": null,
+        "leaders": "",
+        "feature_type": "point",
+        "location_name": "Troll",
+        "role": "stasjon (fra 1990)",
+        "order": 2,
+        "summary": "Norsk Polarinstitutt har drevet forskningsekspedisjoner i Dronning Maud Land siden 1956. Norway Station lå på Fimbulisen (1956–60). Troll-stasjonen ble etablert i 1990."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.53,
+          -72.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "tirich-mir-1950",
+        "expedition_name": "Norsk Tirich Mir-ekspedisjon",
+        "region": "himalaya",
+        "region_label": "Himalaya og Hindu Kush",
+        "color": "#a6761d",
+        "start_year": 1950,
+        "end_year": 1950,
+        "leaders": "Arne Næss",
+        "feature_type": "point",
+        "location_name": "Chitral",
+        "role": "utgangspunkt",
+        "order": 1,
+        "summary": "Førstebestigning av Tirich Mir (7 708 m), Hindu Kush, den høyeste toppen utenfor Himalaya–Karakoram-området."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.79,
+          35.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "tirich-mir-1950",
+        "expedition_name": "Norsk Tirich Mir-ekspedisjon",
+        "region": "himalaya",
+        "region_label": "Himalaya og Hindu Kush",
+        "color": "#a6761d",
+        "start_year": 1950,
+        "end_year": 1950,
+        "leaders": "Arne Næss",
+        "feature_type": "point",
+        "location_name": "Tirich Mir",
+        "role": "topp",
+        "order": 2,
+        "summary": "Førstebestigning av Tirich Mir (7 708 m), Hindu Kush, den høyeste toppen utenfor Himalaya–Karakoram-området."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.84,
+          36.255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "everest-1985",
+        "expedition_name": "Norsk Everest-ekspedisjon",
+        "region": "himalaya",
+        "region_label": "Himalaya og Hindu Kush",
+        "color": "#a6761d",
+        "start_year": 1985,
+        "end_year": 1985,
+        "leaders": "Arne Næss jr.",
+        "feature_type": "point",
+        "location_name": "Mount Everest",
+        "role": "topp",
+        "order": 1,
+        "summary": "Første norske ekspedisjon som nådde toppen av Mount Everest."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.93,
+          27.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "fatu-hiva-1937",
+        "expedition_name": "Heyerdahl på Fatu Hiva",
+        "region": "stillehavet",
+        "region_label": "Stillehavet",
+        "color": "#1b9e77",
+        "start_year": 1937,
+        "end_year": 1938,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Fatu Hiva",
+        "role": "opphold",
+        "order": 1,
+        "summary": "Heyerdahls første ekspedisjon. Han og kona Liv bodde et år på Fatu Hiva i Marquesas. Opplevelsene ble utgangspunkt for teorien om polynesisk opprinnelse."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.63,
+          -10.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "kon-tiki-1947",
+        "expedition_name": "Kon-Tiki-ekspedisjonen",
+        "region": "stillehavet",
+        "region_label": "Stillehavet",
+        "color": "#1b9e77",
+        "start_year": 1947,
+        "end_year": 1947,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Callao, Peru",
+        "role": "start",
+        "order": 1,
+        "summary": "Seks mann seilte på balsaflåte 101 dager fra Peru til Raroia i Tuamotu for å vise at oversjøisk kontakt fra Sør-Amerika til Polynesia var mulig."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15,
+          -12.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "kon-tiki-1947",
+        "expedition_name": "Kon-Tiki-ekspedisjonen",
+        "region": "stillehavet",
+        "region_label": "Stillehavet",
+        "color": "#1b9e77",
+        "start_year": 1947,
+        "end_year": 1947,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Raroia, Tuamotu",
+        "role": "mål",
+        "order": 2,
+        "summary": "Seks mann seilte på balsaflåte 101 dager fra Peru til Raroia i Tuamotu for å vise at oversjøisk kontakt fra Sør-Amerika til Polynesia var mulig."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.47,
+          -16.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "kon-tiki-1947",
+        "expedition_name": "Kon-Tiki-ekspedisjonen",
+        "region": "stillehavet",
+        "region_label": "Stillehavet",
+        "color": "#1b9e77",
+        "start_year": 1947,
+        "end_year": 1947,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.15,
+            -12.05
+          ],
+          [
+            -142.47,
+            -16.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "galapagos-1953",
+        "expedition_name": "Galápagos-ekspedisjonen",
+        "region": "stillehavet",
+        "region_label": "Stillehavet",
+        "color": "#1b9e77",
+        "start_year": 1953,
+        "end_year": 1953,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Galápagosøyene (ca.)",
+        "role": "undersøkt område",
+        "order": 1,
+        "summary": "Arkeologisk ekspedisjon som fant spor etter førspansk besøk fra Sør-Amerika."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5,
+          -0.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "paaskeoya-1955",
+        "expedition_name": "Den norske arkeologiske ekspedisjonen til Påskeøya",
+        "region": "stillehavet",
+        "region_label": "Stillehavet",
+        "color": "#1b9e77",
+        "start_year": 1955,
+        "end_year": 1956,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Påskeøya (Rapa Nui)",
+        "role": "utgravinger",
+        "order": 1,
+        "summary": "Omfattende arkeologiske utgravinger og forsøk med reising av moai. Ekspedisjonen forandret forskningen på Påskeøya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.35,
+          -27.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "tangaroa-2006",
+        "expedition_name": "Tangaroa-ekspedisjonen",
+        "region": "stillehavet",
+        "region_label": "Stillehavet",
+        "color": "#1b9e77",
+        "start_year": 2006,
+        "end_year": 2006,
+        "leaders": "Torgeir Higraff",
+        "feature_type": "point",
+        "location_name": "Callao, Peru",
+        "role": "start",
+        "order": 1,
+        "summary": "Moderne balsaflåte-ekspedisjon i Heyerdahls fotspor, fra Peru til Polynesia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15,
+          -12.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "tangaroa-2006",
+        "expedition_name": "Tangaroa-ekspedisjonen",
+        "region": "stillehavet",
+        "region_label": "Stillehavet",
+        "color": "#1b9e77",
+        "start_year": 2006,
+        "end_year": 2006,
+        "leaders": "Torgeir Higraff",
+        "feature_type": "point",
+        "location_name": "Raivavae, Australøyene",
+        "role": "mål",
+        "order": 2,
+        "summary": "Moderne balsaflåte-ekspedisjon i Heyerdahls fotspor, fra Peru til Polynesia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.67,
+          -23.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "tangaroa-2006",
+        "expedition_name": "Tangaroa-ekspedisjonen",
+        "region": "stillehavet",
+        "region_label": "Stillehavet",
+        "color": "#1b9e77",
+        "start_year": 2006,
+        "end_year": 2006,
+        "leaders": "Torgeir Higraff",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.15,
+            -12.05
+          ],
+          [
+            -147.67,
+            -23.87
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ra-1969",
+        "expedition_name": "Ra og Ra II",
+        "region": "atlanterhavet",
+        "region_label": "Atlanterhavet og Midtøsten",
+        "color": "#d95f02",
+        "start_year": 1969,
+        "end_year": 1970,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Safi, Marokko",
+        "role": "start",
+        "order": 1,
+        "summary": "Papyrusbåter for å vise at oldtidens kulturer kunne ha krysset Atlanterhavet. Ra I måtte oppgis, mens Ra II seilte fra Marokko til Barbados på 57 dager."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.24,
+          32.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ra-1969",
+        "expedition_name": "Ra og Ra II",
+        "region": "atlanterhavet",
+        "region_label": "Atlanterhavet og Midtøsten",
+        "color": "#d95f02",
+        "start_year": 1969,
+        "end_year": 1970,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Barbados",
+        "role": "mål",
+        "order": 2,
+        "summary": "Papyrusbåter for å vise at oldtidens kulturer kunne ha krysset Atlanterhavet. Ra I måtte oppgis, mens Ra II seilte fra Marokko til Barbados på 57 dager."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6,
+          13.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ra-1969",
+        "expedition_name": "Ra og Ra II",
+        "region": "atlanterhavet",
+        "region_label": "Atlanterhavet og Midtøsten",
+        "color": "#d95f02",
+        "start_year": 1969,
+        "end_year": 1970,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "route",
+        "approximate": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.24,
+            32.3
+          ],
+          [
+            -59.6,
+            13.1
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "tigris-1977",
+        "expedition_name": "Tigris-ekspedisjonen",
+        "region": "atlanterhavet",
+        "region_label": "Atlanterhavet og Midtøsten",
+        "color": "#d95f02",
+        "start_year": 1977,
+        "end_year": 1978,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Qurna, Irak",
+        "role": "start",
+        "order": 1,
+        "summary": "Sivbåt fra Irak til Djibouti for å undersøke kontakt mellom Mesopotamia, Indusdalen og Afrikas Horn. Båten ble brent som protest mot krigene i regionen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45,
+          31.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "tigris-1977",
+        "expedition_name": "Tigris-ekspedisjonen",
+        "region": "atlanterhavet",
+        "region_label": "Atlanterhavet og Midtøsten",
+        "color": "#d95f02",
+        "start_year": 1977,
+        "end_year": 1978,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Karachi",
+        "role": "stopp",
+        "order": 2,
+        "summary": "Sivbåt fra Irak til Djibouti for å undersøke kontakt mellom Mesopotamia, Indusdalen og Afrikas Horn. Båten ble brent som protest mot krigene i regionen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0,
+          24.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "tigris-1977",
+        "expedition_name": "Tigris-ekspedisjonen",
+        "region": "atlanterhavet",
+        "region_label": "Atlanterhavet og Midtøsten",
+        "color": "#d95f02",
+        "start_year": 1977,
+        "end_year": 1978,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Djibouti",
+        "role": "mål",
+        "order": 3,
+        "summary": "Sivbåt fra Irak til Djibouti for å undersøke kontakt mellom Mesopotamia, Indusdalen og Afrikas Horn. Båten ble brent som protest mot krigene i regionen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.15,
+          11.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "tucume-1988",
+        "expedition_name": "Túcume-prosjektet",
+        "region": "atlanterhavet",
+        "region_label": "Atlanterhavet og Midtøsten",
+        "color": "#d95f02",
+        "start_year": 1988,
+        "end_year": 1994,
+        "leaders": "Thor Heyerdahl",
+        "feature_type": "point",
+        "location_name": "Túcume, Peru",
+        "role": "utgravinger",
+        "order": 1,
+        "summary": "Utgravinger av pyramidebyen Túcume i Peru."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.83,
+          -6.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "bock-1878",
+        "expedition_name": "Carl Bocks Sumatra- og Borneo-ekspedisjoner",
+        "region": "andre",
+        "region_label": "Asia, Oseania og Amerika",
+        "color": "#e7298a",
+        "start_year": 1877,
+        "end_year": 1879,
+        "leaders": "Carl Bock",
+        "feature_type": "point",
+        "location_name": "Mahakam, Borneo (ca.)",
+        "role": "utforsket område",
+        "order": 1,
+        "summary": "Norsk naturforsker som reiste i det indre av Sumatra og Borneo og beskrev dyr, planter og folk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.15,
+          -0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "lumholtz-australia",
+        "expedition_name": "Lumholtz i Queensland",
+        "region": "andre",
+        "region_label": "Asia, Oseania og Amerika",
+        "color": "#e7298a",
+        "start_year": 1880,
+        "end_year": 1884,
+        "leaders": "Carl Lumholtz",
+        "feature_type": "point",
+        "location_name": "Herberton, Queensland (ca.)",
+        "role": "base",
+        "order": 1,
+        "summary": "Zoologisk innsamling og møte med aboriginal-folk i Queensland. Bakgrunn for boka «Among Cannibals»."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38,
+          -17.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "lumholtz-mexico",
+        "expedition_name": "Lumholtz i Mexico",
+        "region": "andre",
+        "region_label": "Asia, Oseania og Amerika",
+        "color": "#e7298a",
+        "start_year": 1890,
+        "end_year": 1898,
+        "leaders": "Carl Lumholtz",
+        "feature_type": "point",
+        "location_name": "Barranca del Cobre (ca.)",
+        "role": "utforsket område",
+        "order": 1,
+        "summary": "Flerårige ekspedisjoner til Sierra Madre for American Museum of Natural History. Studier av tarahumara-, huichol- og andre folk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7,
+          27.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "lumholtz-borneo",
+        "expedition_name": "Lumholtz på Sentral-Borneo",
+        "region": "andre",
+        "region_label": "Asia, Oseania og Amerika",
+        "color": "#e7298a",
+        "start_year": 1913,
+        "end_year": 1917,
+        "leaders": "Carl Lumholtz",
+        "feature_type": "point",
+        "location_name": "Sentral-Borneo (ca.)",
+        "role": "utforsket område",
+        "order": 1,
+        "summary": "Ekspedisjon til det indre av Dutch Borneo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0,
+          -0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "expedition_id": "ingstad-lanse-aux-meadows",
+        "expedition_name": "L'Anse aux Meadows-utgravningene",
+        "region": "andre",
+        "region_label": "Asia, Oseania og Amerika",
+        "color": "#e7298a",
+        "start_year": 1960,
+        "end_year": 1968,
+        "leaders": "Helge Ingstad, Anne Stine Ingstad",
+        "feature_type": "point",
+        "location_name": "L'Anse aux Meadows, Newfoundland",
+        "role": "funnsted",
+        "order": 1,
+        "summary": "Funn og utgraving av det første bekreftede norrøne bosetningsstedet i Nord-Amerika."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.53,
+          51.59
+        ]
+      }
+    }
+  ]
+}

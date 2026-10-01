@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="nb">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="theme-color" content="#f6f8fb">
+		<title>Ekspedisjoner – besøkte steder og ruter</title>
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+		<link rel="stylesheet" href="ekspedisjon.css">
+		<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+		<script src="ekspedisjon.js?v=7" defer></script>
+	</head>
+	<body>
+		<main class="page-shell">
+			<header class="page-header">
+				<div class="eyebrow"><span class="eyebrow-mark" aria-hidden="true"></span> NORSKE EKSPEDISJONER</div>
+				<h1>En verden av ekspedisjoner</h1>
+				<p class="intro">Utforsk ekspedisjonsrutene og stedene de besøkte.</p>
+			</header>
+
+			<section class="map-card" aria-labelledby="map-heading">
+				<div class="map-card-header">
+					<div>
+						<p class="section-kicker">GLOBAL OVERSIKT</p>
+						<h2 id="map-heading">Reiseruter og besøkte steder</h2>
+					</div>
+					<div class="map-stats" aria-live="polite">
+						<div class="stat"><span class="stat-value" id="visited-count">–</span><span class="stat-label">registrerte steder</span></div>
+						<span class="stat-divider" aria-hidden="true"></span>
+						<div class="stat"><span class="stat-value" id="expedition-count">–</span><span class="stat-label">ekspedisjoner</span></div>
+					</div>
+				</div>
+
+				<div class="map-wrap">
+					<div id="world-map" role="application" aria-label="Verdenskart med markører for besøkte steder og reiseruter. Klikk en markør eller rute for ekspedisjonsdetaljer."></div>
+					<div class="map-status" id="map-status" role="status">Laster kartdata …</div>
+				</div>
+				<div class="map-footer">
+					<p>Rutefargene følger ekspedisjonens hovedleder – for eksempel deler Nansen-ekspedisjonene blåfarge, mens Heyerdahl-ekspedisjonene deler lillafarge. Klikk på en markør eller rute for detaljer.</p>
+					<span class="map-credit">Kartdata: Natural Earth</span>
+				</div>
+			</section>
+			<footer class="page-footer">Stedene er basert på koordinatene i ekspedisjonsregisteret.</footer>
+		</main>
+	</body>
+</html>

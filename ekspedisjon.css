@@ -1,0 +1,90 @@
+:root {
+	color-scheme: light;
+	font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	color: #202b38;
+	background: #f6f8fb;
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	--orange: #e87524;
+	--ink-muted: #748092;
+	--line: #e8edf2;
+}
+
+* { box-sizing: border-box; }
+
+body {
+	min-width: 320px;
+	min-height: 100vh;
+	margin: 0;
+	background: radial-gradient(ellipse at 50% -20%, #fff 0, #f6f8fb 65%);
+}
+
+.page-shell { width: min(1440px, calc(100% - 64px)); margin: 0 auto; padding: 54px 0 26px; }
+.page-header { margin: 0 0 30px 4px; }
+.eyebrow, .section-kicker { color: #e16d20; font-size: 11px; font-weight: 750; letter-spacing: .14em; }
+.eyebrow { display: flex; align-items: center; gap: 10px; }
+.eyebrow-mark { width: 9px; height: 9px; border-radius: 3px; background: var(--orange); transform: rotate(45deg); }
+h1 { margin: 13px 0 7px; color: #1e2a36; font-size: clamp(32px, 4vw, 48px); font-weight: 720; letter-spacing: -.045em; line-height: 1.08; }
+.intro { margin: 0; color: var(--ink-muted); font-size: 16px; line-height: 1.6; }
+
+.map-card { overflow: hidden; border: 1px solid #e9edf1; border-radius: 20px; background: #fff; box-shadow: 0 20px 55px rgb(31 50 70 / 8%), 0 2px 8px rgb(31 50 70 / 3%); }
+.map-card-header { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 24px 30px 20px; }
+.section-kicker { margin: 0 0 6px; font-size: 10px; }
+h2 { margin: 0; color: #263544; font-size: 21px; font-weight: 680; letter-spacing: -.025em; }
+.map-stats { display: flex; align-items: center; gap: 22px; }
+.stat { display: grid; gap: 3px; }
+.stat-value { color: #273746; font-size: 21px; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+.stat-label { color: #8792a0; font-size: 11px; }
+.stat-divider { height: 30px; border-left: 1px solid var(--line); }
+.map-wrap { position: relative; overflow: hidden; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); background: #dff1f8; }
+#world-map { width: 100%; height: min(68vh, 680px); min-height: 420px; background: #dff1f8; }
+.map-status { position: absolute; z-index: 500; top: 16px; left: 50%; padding: 9px 14px; border: 1px solid rgb(255 255 255 / 85%); border-radius: 999px; background: rgb(255 255 255 / 92%); color: #5f6f7e; box-shadow: 0 3px 12px rgb(27 51 71 / 10%); font-size: 12px; transform: translateX(-50%); white-space: nowrap; }
+.map-status.is-hidden { display: none; }
+.map-status.is-error { color: #a23e25; }
+.map-footer { display: flex; justify-content: space-between; gap: 20px; padding: 14px 30px 16px; color: #7b8793; font-size: 12px; line-height: 1.5; }
+.map-footer p { margin: 0; }
+.map-credit { flex: 0 0 auto; color: #9aa4ae; }
+.page-footer { padding: 16px 4px 0; color: #909ba7; font-size: 11px; }
+
+.leaflet-container { color: #263544; font: inherit; }
+.leaflet-control-zoom { overflow: hidden; border: 1px solid #e5ebef !important; border-radius: 9px !important; box-shadow: 0 2px 10px rgb(27 51 71 / 10%) !important; }
+.leaflet-control-zoom a { color: #485766 !important; }
+.leaflet-control-attribution { background: rgb(255 255 255 / 76%) !important; color: #778492 !important; font-size: 10px !important; }
+.leaflet-control-attribution a { color: #536a7d !important; }
+.leaflet-tooltip { padding: 7px 10px; border: 0; border-radius: 7px; background: #263544; color: #fff; box-shadow: 0 5px 16px rgb(0 0 0 / 16%); font-size: 12px; }
+.leaflet-tooltip-top::before { border-top-color: #263544; }
+.route-legend { min-width: 170px; max-height: min(52vh, 360px); overflow-y: auto; padding: 12px 14px; border: 1px solid #e7edf1; border-radius: 10px; background: rgb(255 255 255 / 96%); box-shadow: 0 2px 12px rgb(27 51 71 / 10%); }
+.legend-title { margin-bottom: 9px; color: #657383; font-size: 10px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
+.legend-row { display: flex; align-items: center; gap: 8px; margin: 5px 0; color: #586777; font-size: 11px; }
+.legend-swatch { width: 15px; height: 12px; flex: 0 0 auto; border: 1px solid rgb(65 75 82 / 12%); border-radius: 3px; }
+.route-swatch { height: 4px; border: 0; border-radius: 99px; }
+.place-swatch { width: 11px; height: 11px; flex: 0 0 auto; margin: 0 2px; border: 2px solid #fff; border-radius: 50%; background: #e87524; box-shadow: 0 0 0 1px #d5dce1; }
+.leaflet-popup-content-wrapper { border-radius: 12px; }
+.leaflet-popup-content { width: min(320px, calc(100vw - 90px)) !important; margin: 15px 17px; }
+.expedition-popup { color: #344453; }
+.popup-location-role { margin-bottom: 4px; color: #e16d20; font-size: 10px; font-weight: 750; letter-spacing: .1em; text-transform: uppercase; }
+.expedition-popup > h2 { margin: 0 0 12px; color: #233342; font-size: 18px; line-height: 1.25; }
+.expedition-popup-card { padding: 11px 0; border-top: 1px solid #edf0f2; }
+.popup-eyebrow { margin-bottom: 4px; color: var(--region-color); font-size: 10px; font-weight: 750; letter-spacing: .06em; text-transform: uppercase; }
+.expedition-popup-card h3 { margin: 0 0 9px; color: #283947; font-size: 14px; line-height: 1.35; }
+.popup-fact { margin: 6px 0; }
+.popup-fact span { display: block; margin-bottom: 2px; color: #8793a0; font-size: 10px; font-weight: 650; text-transform: uppercase; letter-spacing: .04em; }
+.popup-fact strong { color: #455563; font-size: 11px; font-weight: 550; line-height: 1.5; }
+.expedition-popup-card p { margin: 8px 0 0; color: #687786; font-size: 11px; line-height: 1.55; }
+
+@media (max-width: 700px) {
+	.page-shell { width: calc(100% - 28px); padding-top: 30px; }
+	.page-header { margin-bottom: 23px; }
+	.map-card { border-radius: 15px; }
+	.map-card-header { align-items: flex-start; flex-direction: column; padding: 20px 20px 16px; }
+	.map-stats { gap: 17px; }
+	#world-map { height: 62vh; min-height: 390px; }
+	.map-footer { flex-direction: column; gap: 6px; padding: 13px 20px 16px; }
+	.leaflet-bottom.leaflet-right { bottom: 4px; }
+	.route-legend { min-width: 145px; padding: 10px 11px; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.country-feature { transition: fill-opacity 140ms ease, stroke-width 140ms ease; }
+}
